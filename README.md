@@ -10,5 +10,6 @@ Tecnologia utilizada nesse video foi a HeyGen https://app.heygen.com/, além de 
 O video foi criado conforme um tema relevante no dia, a ideia seria uma nota jornalistica do dia.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Video com o resultado
+https://drive.google.com/file/d/1W7pfUF8fzBjkWiVg_rqN6gwBJ3ln8EU-/view?usp=sharing
 
